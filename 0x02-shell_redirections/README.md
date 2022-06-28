@@ -1,3 +1,3 @@
-The script that display all directories and subdirectories in the current directory
+The script that create ten new files in a directory
 
 
