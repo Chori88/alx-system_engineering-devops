@@ -1,3 +1,3 @@
-The script that displays third line of iacta 
+The script that displays the content \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) 
 
 
