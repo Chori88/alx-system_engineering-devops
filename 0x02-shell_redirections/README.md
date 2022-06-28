@@ -1,3 +1,3 @@
-Display file that carries root and etc/passwd
+A script that count worda in a line
 
 
