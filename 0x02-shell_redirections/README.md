@@ -1,2 +1,3 @@
-The script that displays content of two files
+The script that displays last 10 lines
+
 
