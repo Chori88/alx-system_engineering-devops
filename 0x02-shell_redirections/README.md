@@ -1,3 +1,3 @@
-The script that displays first 10 lines
+The script that displays third line of iacta 
 
 
