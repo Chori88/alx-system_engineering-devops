@@ -1,3 +1,3 @@
-The script that duplicate the last line of a file
+The script that delete file not with .js in the directory and its subfolders
 
 
