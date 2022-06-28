@@ -1,3 +1,3 @@
-The script that delete file not with .js in the directory and its subfolders
+The script that display all directories and subdirectories in the current directory
 
 
