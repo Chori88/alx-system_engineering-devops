@@ -1,3 +1,3 @@
-The script that create ten new files in a directory
+The script that prints inputs file as one word
 
 
