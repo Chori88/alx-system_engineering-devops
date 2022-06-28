@@ -1,3 +1,3 @@
-The script that displays the content \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) 
+The script that create the file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)  containing Best School
 
 
