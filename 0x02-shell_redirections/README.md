@@ -1,2 +1,2 @@
-This is readme file for shell permossions taks2
+The script that prints hello world
 
