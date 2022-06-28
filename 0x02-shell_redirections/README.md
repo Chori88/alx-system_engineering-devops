@@ -1,3 +1,3 @@
-The script that prints inputs file as one word
+Display file that carries root and etc/passwd
 
 
